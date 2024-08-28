@@ -31,6 +31,7 @@ _What bits, why, and what are the strengths and limitations_
 
 
 ![Breadboard overview](https://github.com/user-attachments/assets/5d93920e-aa86-407c-98df-cfda81e5d644)
+</Details>
 
 ## Session 2
 
