@@ -31,3 +31,13 @@ _What bits, why, and what are the strengths and limitations_
 
 
 ![Breadboard overview](https://github.com/user-attachments/assets/5d93920e-aa86-407c-98df-cfda81e5d644)
+
+## Session 2
+
+
+<details>
+  <Summary>oftware setup and configuration</Summary>
+  
+_Setting up our boards to read sensors, format and save data, and communication and user interface design._
+
+
