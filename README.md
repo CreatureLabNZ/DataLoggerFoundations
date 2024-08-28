@@ -38,6 +38,7 @@ _What bits, why, and what are the strengths and limitations_
 
 <details>
   <Summary>Software setup and configuration</Summary>  
+
 _Setting up our boards to read sensors, format and save data, and communication and user interface design_
 
 Minimum working example to set up over-the-air software uploads and blink and LED from a web interface
