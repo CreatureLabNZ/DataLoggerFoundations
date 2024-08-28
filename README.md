@@ -28,3 +28,6 @@ _What bits, why, and what are the strengths and limitations_
 | 100nF Ceramic Capacitor | 0.09NZD | [CAP CER 0.1UF 50V X7R RADIAL](https://www.digikey.com/en/products/detail/kemet/C320C104M5R5TA/3726028?s=N4IgTCBcDaIMwE4EFoEHY0DZkDkAiIAugL5A) | Datasheet |
 | 27K Ohm resistor | 0.04NZD | [RES 27K OHM 5% 1/4W AXIAL](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CFM14JT27K0/1742158?s=N4IgTCBcDaIMpgOwGkCKBhAKgWgHIBEQBdAXyA) | Datasheet |
 | 100K Ohm resistor | 0.03NZD | [RES 100K OHM 5% 1/8W AXIAL](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT100K/1741564?s=N4IgTCBcDaIMIDECMAOAUgFSQBmwaTgwFoA5AERAF0BfIA) | Datasheet |
+
+
+![Breadboard overview](https://github.com/user-attachments/assets/5d93920e-aa86-407c-98df-cfda81e5d644)
