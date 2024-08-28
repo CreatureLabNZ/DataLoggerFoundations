@@ -38,7 +38,7 @@ _What bits, why, and what are the strengths and limitations_
 
 <details>
   <Summary>Software setup and configuration</Summary>  
-_Setting up our boards to read sensors, format and save data, and communication and user interface design._
+_Setting up our boards to read sensors, format and save data, and communication and user interface design_
 
 Minimum working example to set up over-the-air software uploads and blink and LED from a web interface
   
@@ -52,6 +52,7 @@ Minimum working example to set up over-the-air software uploads and blink and LE
 const char* ssid = "WIFI NETWORK NAME"; ## Wifi name
 const char* password = "PASSWORD"; ## Wifi password
 
+#set the address correctly for your network below
 IPAddress local_ip(192,168,1,222);
 IPAddress gateway(192,168,1,254);
 IPAddress subnet(255,255,255,0);
